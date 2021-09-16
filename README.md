@@ -1,6 +1,6 @@
 ## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-I'm Surabhi Mishra,an App Developer :iphone:, Competitive Programmer and a tech enthusiast from India who is passionate about technologies.
+I'm Surabhi Mishra,an App Developer :iphone: and a Competitive Programmer from India who is passionate about technologies. I also am an avid reader, writer and dancer.
 ### ⚡ Technologies
 Talk to me about:
 - Mobile application development using **Flutter**
